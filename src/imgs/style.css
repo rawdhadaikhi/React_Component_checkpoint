@@ -1,0 +1,11 @@
+
+h3{
+    font-style: italic;
+    color: gray;
+}
+h1,h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: purple;
+
+}
